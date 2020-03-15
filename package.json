@@ -12,6 +12,10 @@
   "author": "Ivo Kalendarov <ivokalendar@icloud.com>",
   "license": "ISC",
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.27",
+    "@fortawesome/free-brands-svg-icons": "^5.12.1",
+    "@fortawesome/free-solid-svg-icons": "^5.12.1",
+    "@fortawesome/react-fontawesome": "^0.1.9",
     "autoprefixer": "^9.7.4",
     "babel-plugin-transform-runtime": "^6.23.0",
     "core-js": "^3.6.4",
@@ -47,15 +51,5 @@
     "webpack-cli": "^3.3.10",
     "webpack-dev-middleware": "^3.7.2",
     "webpack-hot-middleware": "^2.25.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ivo-kalendar/project6.git"
-  },
-  "keywords": [],
-  "bugs": {
-    "url": "https://github.com/ivo-kalendar/project6/issues"
-  },
-  "homepage": "https://github.com/ivo-kalendar/project6#readme",
-  "description": ""
+  }
 }
